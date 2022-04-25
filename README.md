@@ -6,7 +6,9 @@
 - :office: I have previous software experience (~1 year) in the public sector building "No-code" tools using technologies like C#, jQuery, SQL and Javascript.
 - 📫 If you would like to work with me on an interesting project or would like to discuss job opportunities with me, reach me at swaathivelavan@gmail.com / sw.velavan@ufl.edu. I'm looking for full time opportunities in 2023! 
 
-
+<br/>
+<br/>
+<h2> My GitHub Stats: </h2>
 
 <div align="center">
   
