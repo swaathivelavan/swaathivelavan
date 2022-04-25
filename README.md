@@ -1,4 +1,4 @@
-### Hi there, I'm Swaathi Velavan 👋 :brown_wave:
+### Hi there, I'm Swaathi Velavan 👋 :wave::&#127998;
 
 - :books: Pursuing my Masters in Computer Science from the University of Florida. (Go Gators!)
 - :trophy: My current goal is to build a portfolio website using React.js, a framework I recently started learning.
