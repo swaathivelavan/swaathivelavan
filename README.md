@@ -10,8 +10,7 @@
 
 <div>
   
- 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaathivelavan" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
