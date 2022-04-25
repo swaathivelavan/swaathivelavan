@@ -8,7 +8,7 @@
 
 <br/>
 
-<h2> My GitHub Stats: </h2>
+### My GitHub Stats:
 <br/>
 
 <div align="center">
