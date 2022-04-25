@@ -11,7 +11,7 @@
 <div>
   
  
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaathivelavan" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaathivelavan" alt="GitHub Stats"/>
   
 </div>
 
